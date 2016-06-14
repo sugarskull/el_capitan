@@ -1,5 +1,19 @@
 # Emacs Installation Guide
 
+## Setup
+
+create directory: mkdir in ~/ mkdir .emacs.d
+cd in .emacs.de
+make init file: touch init.el
+customize init file: nano init.el
+
+## General Settings
+
+Go to “Emacs” – “Preferences” – “Environment” – “Ns : GNUstep/Mac OS X specific features” 
+
+    “Ns Command Modifier” -> “meta“ before super
+    “Ns Alternate Modifier” -> “No modifier“ before meta
+
 
 ## Auctex
 

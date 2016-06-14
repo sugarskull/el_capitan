@@ -1,8 +1,11 @@
 # OS X El Capitan Clean Install Setup
 
-## Applications App Store
-* Password Manager: 1password
+## OS X Preferences
 
+## Install from App Store
+* Password Manager: 1password
+* Xcode 
+## Install from Third-Party Websites
 ## Homebrew
 Homepage: http://brew.sh/
 
@@ -10,7 +13,8 @@ Install via Terminal:
 ```sh
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-
+Hint:
+Before Installation run Xcode and accept license.
 ## Pandoc
 Homepage: http://pandoc.org/getting-started.html
 
